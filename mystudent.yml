@@ -1,0 +1,24 @@
+---
+- mystudents:
+  - name: sana
+    phono: 656487547764
+    address:
+      - doorno: 789
+      - street: 5
+      - pincode: 500054
+
+
+  - name: satya
+    phon: 654444687654
+    address:
+      - doorno: 989
+      - street: 6
+      - pincoad: 534003
+
+
+  - name: sairam
+    phon: 1468749647
+    address:
+      - doorno: 755
+      - street: 7
+      - pincoad: 534003
